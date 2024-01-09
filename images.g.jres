@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgqgoAAAAAAAAAAKCqMwMAAAAAAAAAoKozMwMAAAAAAAAAoDMz3d3dAAAAAAAAqjPT3d3dAAAAAACgOjPd3d3dAAAAAACgMzPd3d3dAAAAAACgM93d3d3dAAAAAACg093d3d3dAAAAAACg093d3d3dAAAAAACq093d3d3dAAAAAACq093d3d3dAAAAAACq093d3d3dAAAAAACq093d3d3dAAAAAACq093d3d3dAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Face"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
